@@ -128,7 +128,7 @@ The backend searches the pincode dataset and returns matching locations.
 ## 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git https://github.com/AmaanAli7/bangalore-pincodes.git
 ```
 
 Then:
