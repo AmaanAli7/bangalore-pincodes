@@ -1,0 +1,25 @@
+bangalore-pincode-explorer/
+│
+├── client/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── SearchBar.jsx
+│   │   │   └── PincodeCard.jsx
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   └── package.json
+│
+├── server/
+│   ├── controllers/
+│   │   └── pincode.controller.js
+│   ├── routes/
+│   │   └── pincode.routes.js
+│   ├── data/
+│   │   └── pincodes.json
+│   ├── app.js
+│   └── package.json
+│
+├── README.md
+└── .gitignore
