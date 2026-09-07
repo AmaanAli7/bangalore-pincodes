@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://bangalore-pincodes.onrender.com",
+  baseURL: "https://bangalore-pincodes.onrender.com/api",
 });
 
 export const searchPincodes = async (query) => {
